@@ -181,10 +181,10 @@ loan-prediction-week2/
 │   └── loan_ml_ready_dataset.csv           # Final ML-ready dataset
 │
 ├── notebook/
-│   └── loan_preprocessing_analysis.ipynb   # Complete 65-cell pipeline
+│   └── loan_preprocessing_analysis.ipynb   # Complete 
 │
 ├── reports/
-│   ├── business_report.md    # Business case (1-2 pages)
+│   ├── business_report.md    # Business case 
 │   └── preprocessing_report.md        # Detailed preprocessing decisions
 │
 ├── plots/
